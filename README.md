@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-HTML CSS JS projects
+I build HTML CSS and JS project as i learn different designs
